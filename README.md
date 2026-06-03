@@ -27,8 +27,8 @@ To isolate true feature drift from random coordinate rotations introduced by sto
 
 ## Artifacts & Model Weights
 In compliance with assignment specs, raw activation caches and heavy tensor checkpoints are hosted externally:
-* **Baseline & Fine-Tuned SAE wieghts:**[](https://drive.google.com/drive/folders/1HdYEv07d3928LD38C2nmdwyzPVCGzLUS?usp=sharing)
-* **Activation Arrays:**[](https://drive.google.com/drive/folders/13tklpA-ZGOJR-ruWgbSt-0PdikcRkzo7?usp=sharing)
+* **Baseline & Fine-Tuned SAE wieghts:**[(https://drive.google.com/drive/folders/1HdYEv07d3928LD38C2nmdwyzPVCGzLUS?usp=sharing)](https://drive.google.com/drive/folders/1HdYEv07d3928LD38C2nmdwyzPVCGzLUS?usp=sharing)
+* **Activation Arrays:**[(https://drive.google.com/drive/folders/13tklpA-ZGOJR-ruWgbSt-0PdikcRkzo7?usp=sharing)](https://drive.google.com/drive/folders/13tklpA-ZGOJR-ruWgbSt-0PdikcRkzo7?usp=sharing)
 
 ## Key Findings (Teaser)
 Our qualitative tracking validates that the coordinate space remains stable for general prose tokens while undergoing structural mutations on target programming keywords. For example, generic text tracking features (e.g., #1604) are suppressed on code syntax in favor of newly specialized coding structures (e.g., #5575 and #7038).
